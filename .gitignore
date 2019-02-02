@@ -1,0 +1,8 @@
+#files
+job_script.slurm
+mask_rcnn_coco.h5
+
+
+#folders
+__pycache__/
+Mask_RCNN/
